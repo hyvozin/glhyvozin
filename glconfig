@@ -25,7 +25,7 @@
 "category_id": 1, 
 "v2ray_uuid": "", 
 "primary_dns_server": "8.8.8.8", 
-"payload": "GET / D.E.U HTTP/1.1\nHost: vpnvipbrasil.com.br\nUpgrade: H.Y.V.O.Z.I.N\n\n", 
+"payload": "GET / D.E.U HTTP/1.1\nHost: dbz.gokussh.ml\nUpgrade: H.Y.V.O.Z.I.N\n\n", 
 "status": "ACTIVE", 
 "secondary_dns_server": "8.8.4.4", 
 "sni": "", 
@@ -61,7 +61,7 @@
 "category_id": 1, 
 "v2ray_uuid": "", 
 "primary_dns_server": "8.8.8.8", 
-"payload": "GET wss://belis.sk/ HTTP/1.1\nHost: vpnvipbrasil.com.br\nUpgrade: Websocket\nConnection: Keep-Alive\n\n", 
+"payload": "GET wss://belis.sk/ HTTP/1.1\nHost: dbz.gokussh.ml\nUpgrade: Websocket\nConnection: Keep-Alive\n\n", 
 "status": "ACTIVE", 
 "secondary_dns_server": "8.8.4.4", 
 "sni": "belis.sk", 
@@ -97,7 +97,7 @@
 "category_id": 1, 
 "v2ray_uuid": "", 
 "primary_dns_server": "8.8.8.8", 
-"payload": "GET / HTTP/1.1\nHost: vpnvipbrasil.com.br\nUpgrade: websocket\n\n", 
+"payload": "GET / HTTP/1.1\nHost: dbz.gokussh.ml\nUpgrade: websocket\n\n", 
 "status": "ACTIVE", 
 "secondary_dns_server": "8.8.4.4", 
 "sni": "belis.sk", 
@@ -117,7 +117,7 @@
 "user_id": 1, 
 "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
 "description": "" 
-} }, "
+} },
 
 { 
 "name": "VIVINHU SÓ PARA EMERGÊNCIAS!", 
