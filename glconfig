@@ -121,7 +121,7 @@
 
 {
 "name": "VIVO", 
-"config_v2ray": "vmess://eyJhZGQiOiIxNzIuNjcuMTY1LjQzIiwiYWlkIjoiMCIsImhvc3QiOiJhay5sdWNhYXN6LnRrIiwiaWQiOiIwMTM5OTJkNC00ZTI1LTQ3MWEtOTNkZS03YWY0MGM1YjFkNjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGJJVm82ckgvIiwicG9ydCI6IjgwIiwicHMiOiJWSVZPIFJFR0nDlUVTIDEiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=", 
+"config_v2ray": "vmess://013992d4-4e25-471a-93de-7af40c5b1d63@172.67.165.43:80?encryption=auto&host=ak.lucaasz.tk&path=%2FtbIVo6rH%2F&type=ws#VIVO%20REGI%C3%95ES%201", 
 "server_hostname": "", 
 "description": "04 - V2RAY - TESTER", 
 "username": "", 
