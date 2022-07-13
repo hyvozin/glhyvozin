@@ -120,8 +120,8 @@
 } },
 
 {
-"name": "VIVO", 
-"config_v2ray": "sn://vmess?eNrjYGBgMDQ30jMz1zM0M9Uz2RwAFFhqYGhsaWmUYqJrkmpkqmtibpioa2mckqprnphmYpBsmmSYYmacnJEIREYGugX5OZWGxgZbyz8nZuvllCYnJhZX6ZW81i9J8gzLNyvyWM8AAo15-XlPwSwGRiDuD_MM81cIcnX3PDzVNVjBECQOABdXJbk", 
+"name": "VIVO - OFF", 
+"config_v2ray": "", 
 "server_hostname": "", 
 "description": "04 - V2RAY - TESTER", 
 "username": "", 
