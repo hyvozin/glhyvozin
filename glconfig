@@ -156,6 +156,42 @@
 } },
 
 { 
+"name": "CLARO", 
+"SSH": "", 
+"server_hostname": "", 
+"description": "", 
+"username": "", 
+"server_port": 443, 
+"icon_image": "https://i.imgur.com/l7MhmsB.png", 
+"user_id": 1, 
+"password": "", 
+"udp_port": "7300", 
+"category_id": 2, 
+"v2ray_uuid": "", 
+"primary_dns_server": "1.1.1.1", 
+"payload": "GET wss://go.kaltura.com/ HTTP/1.1[crlf]Host: dbz.gokussh.ml[crlf]Upgrade: mentalista[crlf][crlf]", 
+"status": "ACTIVE", 
+"secondary_dns_server": "1.0.0.1", 
+"sni": "go.kaltura.com", 
+"config_mode": "ssl_proxy", 
+"url_check_user": "http://20.206.78.4:5000", 
+"config_openvpn": "", 
+"proxy_hostname": "go.kaltura.com", 
+"sort_order": 1, 
+"id": 1, 
+"proxy_port": 443, 
+"category": 
+{ 
+"name": "SSH CLARO", 
+"id": 2, 
+"status": "ACTIVE", 
+"sort_order": 2, 
+"user_id": 2, 
+"slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
+"description": "" 
+} }, 
+
+{ 
 "name": "TIM", 
 "SSH": "", 
 "server_hostname": "", 
