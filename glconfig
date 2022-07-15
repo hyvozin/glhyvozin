@@ -11,8 +11,9 @@
 "pages": 1, 
 "results": 
 [
+
 {
-"name": "VIVO", 
+"name": "VIVO 01", 
 "config_v2ray": "", 
 "server_hostname": "", 
 "description": "01", 
@@ -48,10 +49,10 @@
 } }, 
 
 {
-"name": "VIVO", 
+"name": "VIVO 02", 
 "config_v2ray": "", 
 "server_hostname": "", 
-"description": "02", 
+"description": "02 # SSL + PAY", 
 "username": "", 
 "server_port": 443, 
 "icon_image": "https://i.imgur.com/V1ZxzjQ.png", 
@@ -84,7 +85,7 @@
 } }, 
 
 {
-"name": "VIVO", 
+"name": "VIVO 02", 
 "config_v2ray": "", 
 "server_hostname": "", 
 "description": "03", 
@@ -120,7 +121,7 @@
 } },
 
 {
-"name": "VIVO - OFF", 
+"name": "VIVO - OFF 03", 
 "config_v2ray": "", 
 "server_hostname": "", 
 "description": "04 - V2RAY - TESTER", 
@@ -156,7 +157,7 @@
 } },
 
 { 
-"name": "CLARO", 
+"name": "CLARO 01", 
 "SSH": "", 
 "server_hostname": "", 
 "description": "", 
@@ -178,7 +179,43 @@
 "config_openvpn": "", 
 "proxy_hostname": "go.kaltura.com", 
 "sort_order": 1, 
-"id": 1, 
+"id": 5, 
+"proxy_port": 443, 
+"category": 
+{ 
+"name": "SSH CLARO", 
+"id": 2, 
+"status": "ACTIVE", 
+"sort_order": 2, 
+"user_id": 2, 
+"slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
+"description": "" 
+} }, 
+
+{ 
+"name": "CLARO 02", 
+"SSH": "", 
+"server_hostname": "", 
+"description": "", 
+"username": "", 
+"server_port": 443, 
+"icon_image": "https://i.imgur.com/l7MhmsB.png", 
+"user_id": 2, 
+"password": "", 
+"udp_port": "7300", 
+"category_id": 2, 
+"v2ray_uuid": "", 
+"primary_dns_server": "1.1.1.1", 
+"payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: dbz.gokussh.ml[crlf]Upgrade: hyvozin[crlf][crlf]", 
+"status": "ACTIVE", 
+"secondary_dns_server": "1.0.0.1", 
+"sni": "4.icanhazip.com", 
+"config_mode": "ssl_proxy", 
+"url_check_user": "http://20.206.78.4:5000", 
+"config_openvpn": "", 
+"proxy_hostname": "4.icanhazip.com", 
+"sort_order": 2, 
+"id": 6, 
 "proxy_port": 443, 
 "category": 
 { 
@@ -199,7 +236,7 @@
 "username": "", 
 "server_port": 443, 
 "icon_image": "https://i.imgur.com/Wn26Zn5.png", 
-"user_id": 2, 
+"user_id": 1, 
 "password": "", 
 "udp_port": "7300", 
 "category_id": 3, 
@@ -214,7 +251,7 @@
 "config_openvpn": "", 
 "proxy_hostname": "104.21.84.78", 
 "sort_order": 1, 
-"id": 15, 
+"id": 7, 
 "proxy_port": 443, 
 "category": 
 { 
@@ -250,7 +287,7 @@
 "config_openvpn": "", 
 "proxy_hostname": "104.16.53.91", 
 "sort_order": 1, 
-"id": 20, 
+"id": 8, 
 "proxy_port": 443, 
 "category": 
 { 
@@ -286,7 +323,7 @@
 "config_openvpn": "", 
 "proxy_hostname": "104.16.51.91", 
 "sort_order": 2, 
-"id": 21, 
+"id": 9, 
 "proxy_port": 443, 
 "category": 
 { 
