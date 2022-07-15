@@ -132,7 +132,7 @@
 "password": "", 
 "udp_port": "7300", 
 "category_id": 1, 
-"v2ray_uuid": "", 
+"v2ray_uuid": "013992d4-4e25-471a-93de-7af40c5b1d63", 
 "primary_dns_server": "8.8.8.8", 
 "payload": "", 
 "status": "ACTIVE", 
