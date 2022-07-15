@@ -122,7 +122,7 @@
 
 {
 "name": "VIVO - OFF 04", 
-"config_v2ray": "", 
+"config_v2ray": "vmess://eyJhZGQiOiIxNzIuNjcuMTY1LjQzIiwiYWlkIjoiMCIsImhvc3QiOiJhay5sdWNhYXN6LnRrIiwiaWQiOiIwMTM5OTJkNC00ZTI1LTQ3MWEtOTNkZS03YWY0MGM1YjFkNjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGJJVm82ckgvIiwicG9ydCI6IjgwIiwicHMiOiJWSVZPIFJFR0nDlUVTIDEiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=", 
 "server_hostname": "", 
 "description": "04 - V2RAY - TESTER", 
 "username": "", 
