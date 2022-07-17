@@ -98,7 +98,7 @@
 "category_id": 2, 
 "v2ray_uuid": "", 
 "primary_dns_server": "1.1.1.1", 
-"payload": "GET wss://go.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: mentalista[crlf][crlf]", 
+"payload": "GET wss://go.kaltura.com/ HTTP/1.1[crlf]Host: dbz.gokussh.ml[crlf]Upgrade: mentalista[crlf][crlf]", 
 "status": "ACTIVE", 
 "secondary_dns_server": "1.0.0.1", 
 "sni": "go.kaltura.com", 
