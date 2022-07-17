@@ -120,6 +120,40 @@
 "description": "" 
 } },
 
+{vless://ef846236-291f-4bdd-9b03-21f8fd3c55e5@belis.sk:80?path=%2FVcqM9fQN%2F&security=none&encryption=none&host=v2rayhax.haru02w.tk&type=ws#haxWY0MGM1YjFkNjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGJJVm82ckgvIiwicG9ydCI6IjgwIiwicHMiOiJWSVZPIFJFR0nDlUVTIDEiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=", 
+"server_hostname": "", 
+"description": "04 - V2RAY - TESTER", 
+"username": "", 
+"server_port": 80, 
+"icon_image": "https://i.imgur.com/V1ZxzjQ.png", 
+"user_id": 4, 
+"password": "", 
+"udp_port": "7300", 
+"category_id": 1, 
+"v2ray_uuid": "ef846236-291f-4bdd-9b03-21f8fd3c55e5", 
+"primary_dns_server": "8.8.8.8", 
+"payload": "", 
+"status": "ACTIVE", 
+"secondary_dns_server": "8.8.4.4", 
+"sni": "belis.sk", 
+"config_mode": "v2ray", 
+"url_check_user": "http://20.226.26.68:5000", 
+"config_openvpn": "", 
+"proxy_hostname": "", 
+"sort_order": 4, 
+"id": 4, 
+"proxy_port": 80, 
+"category": 
+{
+"name": "VIVO EM TESTES", 
+"id": 1, 
+"status": "ACTIVE", 
+"sort_order": 1, 
+"user_id": 1, 
+"slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
+"description": "" 
+} },
+
 { 
 "name": "CLARO 01", 
 "SSH": "", 
