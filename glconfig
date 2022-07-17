@@ -39,7 +39,7 @@
 "proxy_port": 443, 
 "category": 
 {
-"name": "VIVO EM TESTES", 
+"name": "MÉTODOS OPERADORA ROXA", 
 "id": 1, 
 "status": "ACTIVE", 
 "sort_order": 1, 
@@ -75,11 +75,83 @@
 "proxy_port": 80, 
 "category": 
 {
-"name": "VIVO EM TESTES", 
+"name": "MÉTODOS OPERADORA ROXA", 
 "id": 1, 
 "status": "ACTIVE", 
 "sort_order": 1, 
 "user_id": 1, 
+"slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
+"description": "" 
+} },
+
+{
+"name": "CLARO 01", 
+"config_v2ray": "", 
+"server_hostname": "", 
+"description": "01 - SSL + PAY", 
+"username": "", 
+"server_port": 443, 
+"icon_image": "https://i.imgur.com/V1ZxzjQ.png", 
+"user_id": 1, 
+"password": "", 
+"udp_port": "7300", 
+"category_id": 2, 
+"v2ray_uuid": "", 
+"primary_dns_server": "1.1.1.1", 
+"payload": "GET wss://go.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: mentalista[crlf][crlf]", 
+"status": "ACTIVE", 
+"secondary_dns_server": "1.0.0.1", 
+"sni": "go.kaltura.com", 
+"config_mode": "ssl_proxy", 
+"url_check_user": "http://20.226.26.68:5000", 
+"config_openvpn": "", 
+"proxy_hostname": "go.kaltura.com", 
+"sort_order": 1, 
+"id": 1, 
+"proxy_port": 443, 
+"category": 
+{
+"name": "MÉTODOS OPERADORA VERMELHA", 
+"id": 2, 
+"status": "ACTIVE", 
+"sort_order": 2, 
+"user_id": 2, 
+"slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
+"description": "" 
+} },
+
+{
+"name": "CLARO 02", 
+"config_v2ray": "", 
+"server_hostname": "", 
+"description": "02 - SSL + PAY", 
+"username": "", 
+"server_port": 443, 
+"icon_image": "https://i.imgur.com/V1ZxzjQ.png", 
+"user_id": 2, 
+"password": "", 
+"udp_port": "7300", 
+"category_id": 2, 
+"v2ray_uuid": "", 
+"primary_dns_server": "1.1.1.1", 
+"payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: dbz.gokussh.ml[crlf]Upgrade: mentalista[crlf][crlf]", 
+"status": "ACTIVE", 
+"secondary_dns_server": "1.0.0.1", 
+"sni": "4.icanhazip.com", 
+"config_mode": "ssl_proxy", 
+"url_check_user": "http://20.226.26.68:5000", 
+"config_openvpn": "", 
+"proxy_hostname": "4.icanhazip.com", 
+"sort_order": 2, 
+"id": 2, 
+"proxy_port": 443, 
+"category": 
+{
+"name": "MÉTODOS OPERADORA VERMELHA", 
+"id": 2, 
+"status": "ACTIVE", 
+"sort_order": 2, 
+"user_id": 2, 
 "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
 "description": "" 
 } },
@@ -111,7 +183,7 @@
 "proxy_port": 443, 
 "category": 
 { 
-"name": "SSH TIM", 
+"name": "MÉTODOS OPERADORA AZUL", 
 "id": 3, 
 "status": "ACTIVE", 
 "sort_order": 3, 
@@ -121,10 +193,10 @@
 } }, 
 
 { 
-"name": "OI NAVEGAR", 
+"name": "OI 01", 
 "config_v2ray": "", 
 "server_hostname": "", 
-"description": "", 
+"description": "01 - SSL + PAY", 
 "username": "", 
 "server_port": 443, 
 "icon_image": "https://i.imgur.com/GDaq5n6.png", 
@@ -147,7 +219,7 @@
 "proxy_port": 443, 
 "category": 
 { 
-"name": "SSH OI", 
+"name": "MÉTODOS OPERADORA AMARELA", 
 "id": 4, 
 "status": "ACTIVE", 
 "sort_order": 4, 
@@ -157,10 +229,10 @@
 } }, 
 
 { 
-"name": "OI DONWLOAD", 
+"name": "OI 02", 
 "SSH": "", 
 "server_hostname": "", 
-"description": "", 
+"description": "02 - SSL + PAY", 
 "username": "", 
 "server_port": 443, 
 "icon_image": "https://i.imgur.com/GDaq5n6.png", 
@@ -183,7 +255,7 @@
 "proxy_port": 443, 
 "category": 
 { 
-"name": "SSH OI", 
+"name": "MÉTODOS OPERADORA AMARELA", 
 "id": 4, 
 "status": "ACTIVE", 
 "sort_order": 4, 
